@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Madlibs app made by Tyler Cools</string>
+    <string name="button1">Go to adding verbs and stuff</string>
+    <string name="gotToNextFill">Next word</string>
+    <string name="welcome">Hello! Welcome to madlibs, where you choose random words to fill in any text. Below you can choose whether you want to use a random story or you choose one yourself</string>
+    <string name="EditText">Edit Text</string>
+    <string name="goToStory">Go To Story</string>
+    <string name="chooseText">Choose story</string>
+    <string-array name="spinnerArray">
+        <item>Simple</item>
+        <item>Tarzan</item>
+        <item>University</item>
+        <item>Clothes</item>
+        <item>Dance</item>
+        <item>Random</item>
+    </string-array>
+</resources>
